@@ -1,3 +1,3 @@
 # Hello World Spring Boot Application
-DevOps test text
+DevOps 
 ## A sample Hello World Spring application built with maven for demonstrating a CI/CD pipeline.
