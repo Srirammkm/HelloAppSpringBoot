@@ -14,8 +14,8 @@
         transform: translate(-50%, -50%) }
   </style>
   <section>
-    <h1>Sriram Manikanth</h1>
-    <p>Congratulations...
-    <p>Your project has been deployed successfully!!!
+    <h1>Hi Pooja</h1>
+    <p>Thanks for helping Sriram.....
+    <p>His project has been deployed successfully!!!
   </section>
 </html>
