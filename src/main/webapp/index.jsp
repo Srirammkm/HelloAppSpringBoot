@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Hello World!</title>
+        <title>CI/CD</title>
     </head>
     <body>
         <h1>Hello Mars!</h1> 
