@@ -14,7 +14,7 @@
         transform: translate(-50%, -50%) }
   </style>
   <section>
-    <h1>Hi Manoj</h1>
+    <h1>Hi All</h1>
     <p>Welcome to DevOps Training...
     <p>This project has been deployed successfully!!!
   </section>
