@@ -15,7 +15,7 @@
   </style>
   <section>
     <h1>Hi Manoj</h1>
-    <p>wellcome to DevOps Training..
-    <p>This Project has been deployed successfully!!!
+    <p>Welcome to DevOps Training...
+    <p>This project has been deployed successfully!!!
   </section>
 </html>
