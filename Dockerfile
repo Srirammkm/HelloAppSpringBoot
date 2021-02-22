@@ -2,7 +2,7 @@ FROM openjdk:8-jre-alpine
 
 RUN mkdir /App
 
-COPY  target/test-1.0.0-SNAPSHOT.jar /App/helloJava.jar
+COPY  target/myproject-1.jar /App/helloJava.jar
 
 EXPOSE 3333
 
